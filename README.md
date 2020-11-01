@@ -13,7 +13,7 @@
 
 
 <div>
-  <img width = "40%" align="right" alt="Coder" height="250px" src="https://i.pinimg.com/originals/14/c0/44/14c04497d676307a61dc5e2fce82c7cb.gif" />
+  
 <div align="left"> 
   <h3> <strong>💡 About Me: </strong></h3>
   
