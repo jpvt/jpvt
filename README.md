@@ -19,7 +19,7 @@
   
   - 🎓 &nbsp; I'm a Computer Engineering Undergraduate Student at the [Federal University of Paraíba](https://www.ufpb.br)
   - ⚙️ &nbsp; I'm Co-founder and Vice President at [TAIL - Technology and Artificial Intelligence League](https://aria.ci.ufpb.br/tail/)
-  - 🔬 &nbsp; I currently work as a Researcher Intern at [ARIA - Artificial Intelligence Applications Laboratory](https://aria.ci.ufpb.br)
+  - 🔬 &nbsp; I currently work as a Research Intern at [ARIA - Artificial Intelligence Applications Laboratory](https://aria.ci.ufpb.br)
 </div>
 
 <div align="left"> 
@@ -31,27 +31,12 @@
 </div>  
 </div>
  
-### 💻 Programming languages and tools: 
-<p>
+<p align="center">
   
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=jpvt&count_private=true&show_icons=true&theme=graywhite" alt="GitHub Status"/>
+<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=jpvt&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Status"/>
 
-<code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
-<code><img width="12%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="12%" src="https://www.vectorlogo.zone/logos/julialang/julialang-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-<code><img width="12%" src="https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_Matplotlib.svg"></code>
-<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
+
 
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br>
