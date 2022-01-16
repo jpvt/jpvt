@@ -16,12 +16,6 @@
   - 📈 &nbsp;Statistics
 </div>  
 </div>
- 
-<p align="center">
-  
-<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=jpvt&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Status"/>
-
-</p>
 
 
 <p align="center"> 
