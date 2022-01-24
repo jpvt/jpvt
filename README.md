@@ -5,7 +5,7 @@
   
   - 🎓 &nbsp; I'm a Computer Engineering Undergraduate Student at the [Federal University of Paraíba](https://www.ufpb.br)
   - ⚙️ &nbsp; I'm Co-founder and Vice President at [TAIL - Technology and Artificial Intelligence League](https://aria.ci.ufpb.br/tail/)
-  - 🔬 &nbsp; I currently work as a Research Intern at [ARIA - Artificial Intelligence Applications Laboratory](https://aria.ci.ufpb.br)
+  - 👨🏾‍💻 &nbsp; I currently work as a Software Developer Engineer Intern at [Amazon](https://www.amazon.com.br/)
 </div>
 
 <div align="left"> 
