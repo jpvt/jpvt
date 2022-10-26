@@ -4,8 +4,8 @@
   <h3> <strong>💡 About Me: </strong></h3>
   
   - 🎓 &nbsp; I'm a Computer Engineering Undergraduate Student at the [Federal University of Paraíba](https://www.ufpb.br)
-  - ⚙️ &nbsp; I'm Co-founder and Vice President at [TAIL - Technology and Artificial Intelligence League](https://aria.ci.ufpb.br/tail/)
-  - 👨🏾‍💻 &nbsp; I currently work as Data Engineering Intern at [Rei do Pitaco](http://www.reidopitaco.com.br)
+  - ⚙️ &nbsp; I'm Co-founder and Advisor at [TAIL - Technology and Artificial Intelligence League](https://aria.ci.ufpb.br/tail/)
+  - 👨🏾‍💻 &nbsp; I currently work as Software Engineering Intern at [Rei do Pitaco](http://www.reidopitaco.com.br)
 </div>
 
 <div align="left"> 
