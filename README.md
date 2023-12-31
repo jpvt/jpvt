@@ -3,16 +3,16 @@
 <div align="left"> 
   <h3> <strong>💡 About Me: </strong></h3>
   
-  - 🎓 &nbsp; I'm a Computer Engineering Undergraduate Student at the [Federal University of Paraíba](https://www.ufpb.br)
+  - 🎓 &nbsp; I'm a Computer Engineering, BSc from the [Federal University of Paraíba](https://www.ufpb.br)
   - ⚙️ &nbsp; I'm Co-founder and Advisor at [TAIL - Technology and Artificial Intelligence League](https://aria.ci.ufpb.br/tail/)
-  - 👨🏾‍💻 &nbsp; I currently work as an Undergraduate Researcher at [ARIA](https://aria.ci.ufpb.br/en/)
+  - 👨🏾‍💻 &nbsp; I'm an incoming Software Engineer at Microsoft!
 </div>
 
 <div align="left"> 
   <h3><strong> 🌱 Things I am currently studying: </strong></h3>
   
-  - 🤖 &nbsp;Data Science & Machine Learning 
-  - 🖥️ &nbsp;Software Engineering
+  - 📐 &nbsp;Geometry, Graphics and Vision 
+  - 🧠 &nbsp;Machine Learning
   - 📈 &nbsp;Statistics
 </div>  
 </div>
