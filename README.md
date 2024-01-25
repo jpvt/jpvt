@@ -2,10 +2,10 @@
   
 <div align="left"> 
   <h3> <strong>💡 About Me: </strong></h3>
+  - 👨🏾‍💻 &nbsp; Software Engineer at Microsoft!
+  - 🎓 &nbsp; Computer Engineering, BSc from the [Federal University of Paraíba](https://www.ufpb.br)
+  - ⚙️ &nbsp; Co-founder and Advisor at [TAIL - Technology and Artificial Intelligence League](https://aria.ci.ufpb.br/tail/)
   
-  - 🎓 &nbsp; I'm a Computer Engineering, BSc from the [Federal University of Paraíba](https://www.ufpb.br)
-  - ⚙️ &nbsp; I'm Co-founder and Advisor at [TAIL - Technology and Artificial Intelligence League](https://aria.ci.ufpb.br/tail/)
-  - 👨🏾‍💻 &nbsp; I'm an incoming Software Engineer at Microsoft!
 </div>
 
 <div align="left"> 
